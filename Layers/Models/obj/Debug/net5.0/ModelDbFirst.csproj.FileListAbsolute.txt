@@ -1,0 +1,15 @@
+C:\Users\WII\source\repos\Layers\Models\bin\Debug\net5.0\ModelDbFirst.deps.json
+C:\Users\WII\source\repos\Layers\Models\bin\Debug\net5.0\ModelDbFirst.runtimeconfig.json
+C:\Users\WII\source\repos\Layers\Models\bin\Debug\net5.0\ModelDbFirst.runtimeconfig.dev.json
+C:\Users\WII\source\repos\Layers\Models\bin\Debug\net5.0\ModelDbFirst.dll
+C:\Users\WII\source\repos\Layers\Models\bin\Debug\net5.0\ModelDbFirst.pdb
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.csproj.AssemblyReference.cache
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.AssemblyInfoInputs.cache
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.AssemblyInfo.cs
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.csproj.CoreCompileInputs.cache
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.dll
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\refint\ModelDbFirst.dll
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.pdb
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ModelDbFirst.genruntimeconfig.cache
+C:\Users\WII\source\repos\Layers\Models\obj\Debug\net5.0\ref\ModelDbFirst.dll

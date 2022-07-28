@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WII\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WII\\.nuget\\packages"
+    ]
+  }
+}
